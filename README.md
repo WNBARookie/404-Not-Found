@@ -1,3 +1,5 @@
+<!-- Please update value in the {}  -->
+
 <h1 align="center">{404 Not Found}</h1>
 
 <div align="center">
@@ -6,6 +8,10 @@
 
 <div align="center">
   <h3>
+    <a href="https://not-found-devchallenges.netlify.app/">
+      Solution
+    </a>
+    <span> | </span>
     <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
       Challenge
     </a>
